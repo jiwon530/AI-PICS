@@ -1,0 +1,7 @@
+{
+  "name": "AI PICS - Photo Identification & Categorization (ver1)",
+  "description": "프론트개발까지만 완료",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
